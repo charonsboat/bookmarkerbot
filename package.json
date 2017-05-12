@@ -1,0 +1,25 @@
+{
+  "name": "@drm2/bookmarkerbot",
+  "description": "A bot that will DM tweets to you so you can read them later.",
+  "version": "v0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@drm2/twitterbot": "0.0.6",
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drm2/bookmarkerbot.git"
+  },
+  "author": "David R. Myers II <davidrmyersii@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drm2/bookmarkerbot/issues"
+  },
+  "homepage": "https://github.com/drm2/bookmarkerbot#readme"
+}
